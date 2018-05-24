@@ -1,6 +1,8 @@
 ---
-title       : Выборочные характеристики
-description : Insert the chapter description here
+title: Выборочные характеристики
+description: >-
+  Insert the chapter description here
+
 
 ---
 ## Знакомство с датасетом
@@ -68,4 +70,6 @@ test_student_typed("head(candy, 10)", not_typed_msg = "Возникла проб
 test_error()
 success_msg("Отлично! Пришло время проверить, как хорошо Вы познакомились с датасетом.")
 ```
+
+
 
