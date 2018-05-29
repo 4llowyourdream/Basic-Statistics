@@ -63,23 +63,6 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 
 ---
-## Лекция о сибах
-
-```yaml
-type: VideoExercise
-lang: r
-xp: 50
-
-key: 45bf51b8f6
-video_link: //player.vimeo.com/video/160339466
-
-
-```
-
-`@projector_key`
-31ed9d9b7b89c18699d6c79ab7a10293
-
----
 ## Упражнение
 
 ```yaml
@@ -89,7 +72,6 @@ xp: 50
 
 key: b7602dbf6e
 
-lang: r
 ![](https://vignette.wikia.nocookie.net/once-upon-a-time/images/5/5a/%D0%9A%D0%B5%D0%B9%D1%81%D0%B8%D0%A0%D0%BE%D0%BB.jpg/revision/latest?cb=20151212171755&path-prefix=ru)
 
 ```
