@@ -1,8 +1,7 @@
 ---
-title: Теоретическая вставка
-description: >-
-  This is a template chapter.
-
+  title: "Теоретическая вставка"
+  description: "This is a template chapter."
+  v2: true
 
 ---
 ## Ex 1.1
@@ -13,6 +12,9 @@ lang: r
 xp: 100
 skills: 1
 key: 91681de4cc
+
+
+
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
@@ -61,7 +63,7 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 
 ---
-## Insert exercise title here
+## Лекция о сибах
 
 ```yaml
 type: VideoExercise
@@ -69,6 +71,9 @@ type: VideoExercise
 xp: 50
 
 key: 45bf51b8f6
+
+
+
 ```
 
 `@projector_key`
