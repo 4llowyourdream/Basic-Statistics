@@ -78,3 +78,25 @@ key: 45bf51b8f6
 
 `@projector_key`
 31ed9d9b7b89c18699d6c79ab7a10293
+---
+
+
+
+
+
+
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: VideoExercise
+key: eed70f9454
+lang: r
+xp: 50
+skills: 1
+video_link: https://www.youtube.com/watch?v=rp27Ggo_edo
+
+```
+
+
