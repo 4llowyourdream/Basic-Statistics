@@ -80,7 +80,7 @@ video_link: //player.vimeo.com/video/160339466
 31ed9d9b7b89c18699d6c79ab7a10293
 
 ---
-## Insert exercise title here
+## Упражнение
 
 ```yaml
 type: VideoExercise
