@@ -63,19 +63,16 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 
 ---
-title       : This is chapter with video exercise
-description : Yes! This chapter contains a video!
----
-
 ## Лекция о сибах
 
 ```yaml
 type: VideoExercise
-xp: 50
 lang: r
-key: 45bf51b8f6
+xp: 50
 
+key: 45bf51b8f6
 video_link: //player.vimeo.com/video/160339466
+
 
 ```
 
