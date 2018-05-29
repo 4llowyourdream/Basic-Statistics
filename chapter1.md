@@ -78,3 +78,20 @@ video_link: //player.vimeo.com/video/160339466
 
 `@projector_key`
 31ed9d9b7b89c18699d6c79ab7a10293
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: b7602dbf6e
+
+
+
+```
+
+`@projector_key`
+1971e1d018fb2c898d55d68eee8657d1
