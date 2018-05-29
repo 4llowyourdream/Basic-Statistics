@@ -89,7 +89,8 @@ xp: 50
 
 key: b7602dbf6e
 
-
+lang: r
+![](https://vignette.wikia.nocookie.net/once-upon-a-time/images/5/5a/%D0%9A%D0%B5%D0%B9%D1%81%D0%B8%D0%A0%D0%BE%D0%BB.jpg/revision/latest?cb=20151212171755&path-prefix=ru)
 
 ```
 
