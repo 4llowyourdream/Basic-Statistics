@@ -63,16 +63,19 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 
 ---
+title       : This is chapter with video exercise
+description : Yes! This chapter contains a video!
+---
+
 ## Лекция о сибах
 
 ```yaml
 type: VideoExercise
-
 xp: 50
 lang: r
 key: 45bf51b8f6
 
-video_hls: //videos.datacamp.com/transcoded/672_intermediate_r/v2/hls-ch1_1.master.m3u8
+video_link: //player.vimeo.com/video/160339466
 
 ```
 
