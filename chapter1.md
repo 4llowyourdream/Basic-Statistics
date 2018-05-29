@@ -69,34 +69,12 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 type: VideoExercise
 
 xp: 50
-
+lang: r
 key: 45bf51b8f6
 
-
+video_hls: //videos.datacamp.com/transcoded/672_intermediate_r/v2/hls-ch1_1.master.m3u8
 
 ```
 
 `@projector_key`
 31ed9d9b7b89c18699d6c79ab7a10293
----
-
-
-
-
-
-
-
----
-## <<<New Exercise>>>
-
-```yaml
-type: VideoExercise
-key: eed70f9454
-lang: r
-xp: 50
-skills: 1
-video_link: https://www.youtube.com/watch?v=rp27Ggo_edo
-
-```
-
-
